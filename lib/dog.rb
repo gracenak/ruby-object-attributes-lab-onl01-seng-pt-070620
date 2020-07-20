@@ -1,15 +1,15 @@
 class Dog
   
-  def name= (dogs_name)
-    @this_name= dogs_name
+  def initialize(name)
+    @name= dogs_name
   end
   
   def name
-    @this_name
+    @name
     end
   end
   
-  fido = Dog.new
+  fido= Dog.new
   fido.name = "Fido"
   puts fido.name
   
