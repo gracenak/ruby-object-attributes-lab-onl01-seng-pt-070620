@@ -13,12 +13,14 @@ class Dog
   fido.name = "Fido"
   puts fido.name
   
-  # def breed()
-  #   @breed = breed
-  # end
+  def breed=(dogs_breed)
+     @breed= dogs_breed
+  end
   
-  # def breed
-  #   @breed
-  #   end
-  # end
+  def breed
+    @breed
+    end
+  end
+  
+  labrador.breed
   
