@@ -19,7 +19,6 @@ class Dog
   
   def breed
     @breed
-    end
   end
   
   snoopy= Dog.new
