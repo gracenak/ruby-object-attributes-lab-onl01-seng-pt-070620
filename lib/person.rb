@@ -7,6 +7,7 @@ class Person
   def name
     @name
   end
+end
   
   class Person
     
@@ -18,4 +19,5 @@ class Person
     @job
   end
 end
+
   
