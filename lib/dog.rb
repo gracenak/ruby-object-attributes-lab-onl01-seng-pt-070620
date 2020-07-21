@@ -25,5 +25,4 @@ class Dog
   snoopy.breed = "Beagle"
   puts snoopy.breed
   
-end
   
