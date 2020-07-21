@@ -15,7 +15,7 @@ end
     @job= persons_job
   end
   
-  def persons_job
+  def job
     @job
   end
 end
