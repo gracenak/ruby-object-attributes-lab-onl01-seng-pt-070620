@@ -21,6 +21,7 @@ class Dog
     @breed
     end
   end
+end
   
   snoopy= Dog.new
   snoopy.breed = "Beagle"
