@@ -22,5 +22,7 @@ class Dog
     end
   end
   
-  labrador.breed
+  snoopy = Dog.new
+  snoopy.breed = "Beagle"
+  puts snoopy.breed
   
